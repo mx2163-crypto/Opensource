@@ -13,26 +13,4 @@ I have not received feedback yet as I only just opened the Issue. I am waiting t
 Do I plan to continue working on this
 Yes! If the maintainers are open to it, I plan to properly format the SVG files and submit a Pull Request for each emoji individually. If they are not accepted, I still feel proud of the designs and the process I went through to get here
 
-<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="SteamedBun" clip-path="url(#clip0_3_2)">
-<g id="grid">
-<path id="Vector" d="M68 4V68H4V4H68ZM72 0H0V72H72V0Z" fill="#B3B3B3"/>
-<path id="Vector_2" d="M12.923 10.9583H59.0769C59.5869 10.9583 60.0761 11.1609 60.4367 11.5216C60.7974 11.8822 61 12.3714 61 12.8814V59.0352C61 59.5452 60.7974 60.0344 60.4367 60.395C60.0761 60.7557 59.5869 60.9583 59.0769 60.9583H12.9231C12.4131 60.9583 11.9239 60.7557 11.5633 60.395C11.2026 60.0344 11 59.5452 11 59.0352V12.8813C11 12.3713 11.2026 11.8822 11.5632 11.5215C11.9239 11.1609 12.413 10.9583 12.923 10.9583Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10"/>
-<path id="Vector_3" d="M53.7463 4H18.2537C17.009 4 16 5.00902 16 6.2537V65.7463C16 66.991 17.009 68 18.2537 68H53.7463C54.991 68 56 66.991 56 65.7463V6.2537C56 5.00902 54.991 4 53.7463 4Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10"/>
-<path id="Vector_4" d="M68 53.7463V18.2537C68 17.009 66.991 16 65.7463 16L6.2537 16C5.00902 16 4 17.009 4 18.2537V53.7463C4 54.991 5.00902 56 6.2537 56L65.7463 56C66.991 56 68 54.991 68 53.7463Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10"/>
-<path id="Vector_5" d="M36 65C52.0163 65 65 52.0163 65 36C65 19.9837 52.0163 7 36 7C19.9837 7 7 19.9837 7 36C7 52.0163 19.9837 65 36 65Z" stroke="#00A5FF" stroke-width="0.1" stroke-miterlimit="10"/>
-</g>
-<path id="Color" d="M65 37.7419C65 51.6916 52.0163 63 36 63C19.9837 63 7 51.6916 7 37.7419C7 23.7923 22.037 9 36 9C49.963 9 65 23.7923 65 37.7419Z" fill="white"/>
-<path id="shadow" d="M64.5 37.2783C64.5 51.6301 49 62.5 36.5 62.5C27.5 62.5 44.2712 64.5885 53.5 46.5C66 22 29 9.5 36.5 9.5C44 9.5 64.5 20.5 64.5 37.2783Z" fill="#D0CFCE"/>
-<path id="line" d="M36 10C42.6452 10 49.6566 13.5354 55.0332 18.8506C60.4103 24.1663 64 31.1112 64 37.7422C63.9998 51.0142 51.5981 62 36 62C20.4019 62 8.00016 51.0142 8 37.7422C8 31.1112 11.5897 24.1663 16.9668 18.8506C22.3434 13.5354 29.3548 10 36 10Z" stroke="black" stroke-width="2"/>
-<path id="line_2" d="M25.6398 24C23.0773 25.0291 21.8343 27.9407 22.8633 30.5032" stroke="black" stroke-width="2" stroke-linecap="round"/>
-<path id="line_3" d="M35.8008 26.417C34.6794 28.3204 35.3133 30.7724 37.2167 31.8938" stroke="black" stroke-width="2" stroke-linecap="round"/>
-<path id="line_4" d="M46.097 24C46.0434 26.7609 48.2382 29.0425 50.9991 29.0961" stroke="black" stroke-width="2" stroke-linecap="round"/>
-<path id="Ellipse 5" d="M35.5 16C36.858 16 38.0408 16.3526 38.8525 16.8691C39.6759 17.3932 40 17.9941 40 18.5C40 19.0059 39.6759 19.6068 38.8525 20.1309C38.0408 20.6474 36.858 21 35.5 21C34.142 21 32.9592 20.6474 32.1475 20.1309C31.3241 19.6068 31 19.0059 31 18.5C31 17.9941 31.3241 17.3932 32.1475 16.8691C32.9592 16.3526 34.142 16 35.5 16Z" fill="#D22F27" stroke="black" stroke-width="2"/>
-</g>
-<defs>
-<clipPath id="clip0_3_2">
-<rect width="72" height="72" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+
